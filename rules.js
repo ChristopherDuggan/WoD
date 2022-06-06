@@ -376,3 +376,285 @@ some other movement stopping effect.
     vehicles). Each success by pursuer eliminates one sucess from the target. If
     pursuer matches or exceeds target's successes, pursuer catches up; if target
     more than doubles pursuer's successes, target escapes.
+
+                               Feats of Strength
+
+A character can automatically accomplish any feat of strength less than or equal
+to their strength pool (ie someone with 3 dots in strength can automatically
+bust down a wooden door). For any feat beyond that, they may roll willpower
+(diff 9) to boost their effective strength. Each success on the willpower roll
+acts as a +1 to the pool (ie someone with 3 dots in strength and 2 successes on
+the willpower roll can smash open a metal fire door).
+
+               Dice Pool    Feat                                Lift
+               1            Crush a soda can                    40 lbs
+               2            Break a chair                       100 lbs
+               3            Bust down a wooden door             250 lbs
+               4            Break a 2 x 4                       400 lbs
+               5            Smash open a metal fire door        650 lbs
+               6            Throw a motorcycle                  800 lbs
+               7            Flip a small car                    900 lbs
+               8            Snap a lead pipe                    1000 lbs
+               9            Punch through a cement wall         1200 lbs
+               10           Tear open a steel drum              1500 lbs
+               11           Punch through 1" of sheet metal     2000 lbs
+               12           Snap a streetlight post             3000 lbs
+               13           Throw a sedan                       4000 lbs
+               14           Toss an suv                         5000 lbs
+               15           Hurl a pickup truck                 6000 lbs
+
+
+                               HEALTH AND INJURY
+
+                                 Health Levels
+
+Health Levels   Dice Pool Ponalty*  Movement Penalty
+(0) Uninjured        0              -You're fine
+(1) Bruised          0              -Minor pain and swelling; banged up but
+                                    otherwise fine
+[2) Hurt             -1             -Cuts, bruises, aches, perhaps bleeding but
+                                    no major impairment
+(3) Injured          -1             -Minor, painful injuries limit the character
+                                    to half their normal movement
+(4) Wounded          -2             -Notable injuries handicap him; the character
+                                    can't run but may still walk
+(5) Mauled           -2             -Significant internal and external damage;
+                                    character can hobble around(3 yards per
+                                    turn) but not move normally
+(6) Crippled         -5             -Catastrophic injuries; character can only
+                                    crawl (1 yard per turn)
+(7) Incapacitated    n/a            -Character is unconscious from pain and trauma
+Dead                 n/a            -U ded, ho
+
+                             *does not affect soak
+
+                                 Healing Damage
+
+
+                                    bashing
+Health Level                Recovery Time*
+Bruised to Wounded (1-4)    1 hour
+Mauled (5)                  3 hours
+Crippled (6)                6 hours
+Incapacitated (7)           12 hours
+
+                             lethal and aggravated
+Health Level                Recovery Time*
+Bruised (1)                 1 day
+Hurt (2)                    3 days
+Injured (3)                 1 week
+Wounded (4)                 1 month
+Mauled (5)                  2 months
+Crippled (6)                3 months
+Incapacitated (7)           5 months
+
+                        * recovery times are cumulative
+
+                                Types of Injury
+Bashing Damage - blunt impact, short falls, psychic attacks, fistfight injuries,
+knockout gas, minor illness, most types of drugs and other pains the average
+person might walk away from. It is possible but not likely to die from bashing.
+
+Bashing can be soaked with sta. When bashing takes a character to Incapacitated,
+all subsequent bashing damage is lethal, starting from the top of the health
+chart.
+
+Lethal Damage - harm dealt by guns, blades, long falls, sharp impacts, eletrical
+burns, puncture wounds, deadly poisons, fatal diseases, and other mortal
+injuries. The average character cannot soak lethal damage.
+
+Unlike bashing damage, lethal may cause a character's health to deteriorate
+without mediacl care (int + medicine) to stabilize. 
+
+At all levels below Hurt(2), untreated lethal wounds grow one level worse each
+day. 
+
+Aggravated Damage - fire, acid, virulent toxins, vampire fangs, radiation,
+explosions, and similar physical atrocities.
+
+Aggravated damage cannot be soaked by most physical beings. Some types of
+protection (armor, magic, etc) can resist aggravated damage. Healing this damage
+requires long term medical treatment or magic but in other regards is treated as
+lethal damage. The character's health deteriorates like lethal and must be
+stabilized to prevent further damage over time.
+
+Psychic Trauma - mental attacks, torture, abominable tomes, emotional shocks and
+other things that may cause psychosomatic pain. This is bashing damage but is
+soaked by willpower rather than stamina. A character incapacitated by psychic
+trauma may become mentially ill or gain a flaw that reflects their wonded mind.
+
+
+                                 Healing Damage
+The recovery times listed on the chart assume an injured character has rest and
+basic medical attention. Under especially good conditions (skilled physicians,
+an uninterrupted healing space, etc.), the listed time may be one or even two
+categories better than the ones given on the chart.
+
+Medical treatment (help from a character with medicine 2 or better) is essential
+for bashing injuries of Wounded (4) or worse and for lethal/aggravated injuries
+or Injured(3) or worse. Without that treatment, the character suffers
+more-or-less permanent impairment until healed by magic or extensive medical
+care.
+
+
+                                     COMBAT
+0. Initiative is determined 
+1. Attack
+2. Defense
+3. Damage
+
+                                    Attacks
+                         all difficulties default to 6
+guns                    dex + firearms
+thrown weapons          dex + athletics
+hand-heald weapons      dex + melee
+hand-to-hand            dex + brawl or dex + martial arts
+magic                   arete/enlightenment. If it requires a physical component
+                        (a punch, etc) roll the appropriate attack 
+
+                                    Defense
+action                  die pool
+dodge                   dex + athletics or dex + acrobatics
+block                   dex + brawl
+parry                   dex + melee
+countermagick           <++>
+
+You can declare a defensive maneuver at any point in your turn so long as you
+have an action left to perform. If you have already declared a different action
+for the turn, you may make a willpower roll (diff 6) or spend a willpower point
+to change your character's mind. 
+
+You make attack and defend in the same turn following the dice pool rules for
+multiple actions.
+
+Dodging:
+    dex + athletics. The difficulty depends on the nature of the attack and the
+    distance the dodging character wants to cover during the dodge. Dodging a
+    hand-to-hand strike: diff 5. Dodging firearms at close range: diff 9 or
+    10. Each success subtracts one success from the attacker's roll. 
+
+Blocking:
+    dex + brawl to use a body part to deflect a blow. Difficulty typically
+    ranges between 6 (for a fist) and 8 (for a table). Each success scored by
+    the defender removes a success from the attacker's attempt.
+
+    Normally, only hand-to-hand attacks can be blocked. A character with martial
+    arts can attempt to block spears, other thrown ojects, or arrows with a dex
+    + martial arts roll (diff 8). Normal humans cannot block lethal or
+    aggravated damage attacks unless they are wearing armor,
+
+Parrying (and rebound attacks):
+    A parry works the same as a block except you are using a wepaon to block and
+    incoming attack.
+
+    If an attacker uses a brawl attack that gets defended by a parry (like a
+    punch deflected with a knife) then the attacker probably hurts themself. The
+    defender rolls a "rebound attack"  if the successes rolled to parry the
+    attack outnumber the successse the opponent rolled when attacking them.
+
+    A rebound attack uses a typical dex + melee roll using the full dice
+    pool. If successful, it scores the usual amount of damage + one success for
+    each success that outnumbered the attackers roll. (A parry that scores two
+    successes more than necessary, for example, would add two more successes to
+    that rebound atack.) 
+
+"Desperate" or Full Defense:
+    The character dedicates all of their efforts to defending themselves. They
+    are unable to do anything else in the turn. Roll the appropriate defensive
+    roll (dodge, block, etc) with your full dice pool against the first
+    attack. Then subtract one die from the pool for each subsequent attack that
+    turn.
+
+                                     Damage
+
+Soaking:
+Roll the character's sta against a difficulty determined by the damage. Bashing
+can be soaked by any character (diff 6). Lethal can't be soaked by normal humans
+but may be soaked by different creatures at 6 or higher diff. Aggravated cannot
+be soaked by humans and most other creatures. Soaking it usually requires
+paranormal protection or heavy-duty armor.
+
+Each success on a soak roll reduces the damage by one health level. If the soake
+eliminates all of the successes scored against a character, they've gotten hit
+but not hurt.
+
+Calculating Damage:
+The most dangerous type goes on the top of the chart. Take Bob. Bob gets punched
+in the face and takes 2 bashing damage after his soak.
+
+(0) Uninjured       [/]
+(1) Bruised         [/]
+[2) Hurt            [ ]
+(3) Injured         [ ]
+(4) Wounded         [ ]
+(5) Mauled          [ ]
+(6) Crippled        [ ]
+(7) Incapacitated   [ ]
+
+Bob then gets stabbed with a pencil nad takes a total af 1 lethal damage
+
+(0) Uninjured       [X]
+(1) Bruised         [/]
+[2) Hurt            [/]
+(3) Injured         [ ]
+(4) Wounded         [ ]
+(5) Mauled          [ ]
+(6) Crippled        [ ]
+(7) Incapacitated   [ ]
+
+Then Bob gets lit on fire and takes 3 aggravated damage. Poor Bob.
+
+(0) Uninjured       [*]
+(1) Bruised         [*]
+[2) Hurt            [*]
+(3) Injured         [X]
+(4) Wounded         [/]
+(5) Mauled          [/]
+(6) Crippled        [ ]
+(7) Incapacitated   [ ]
+
+
+                        Combat Tactics and Circumstances
+
+Ambush:
+Attacker rolls dex + stealth vs target's per + alertness
+If the attacker wins, they get one attack roll against the opponent before
+initiave rolls are made. Add one die to the pool for each success beyond the
+minimum. 
+
+On a tie, attacker goes first but the defender can take a defensive maneuver
+
+If the defentder wins, roll normal initiative.
+
+Armor and Shields:
+Armor adds to the wearer's soak pool and allows them to soak lethal damage, as
+well as certain types of aggravated damage. Lgiht armor is not encumbering but
+heavier armor may inflict a penalty on the wearer's dex-based dice
+pool. Different types of armor take differing amounts of time to put on.
+
+Shields make the wearer harder to hit. An opponent facing your shield in
+hand-to-hand or melee combat adds 1 or 2 to the difficulty to hit you, depending
+on the size of the shield in question. When used to defend against projectiles,
+the shield acts as armor, reducing a blow by one success for every level in the
+shield's rating.
+
+If a shield is being used to actively defend, it requires a dex + melee roll as
+a dedicated blocking/parrying action.
+
+Blinded, Knocked Down, Immobilized, or Stunned:
+Blinding: blinded characters cannot dodge, parry, or block incoming
+attacks. They also add 2 difficulty of all visually dependent actions until they
+are able to see again
+Knockdown: The character must take an action to get back up. If they can't do
+so, they can be considered temporarily immobilized until they get back on their
+feet.
+Immobilization:
+When a character gets held down, paralyzed, or otherwise rendered unable to
+move, any other character who attacks him redcuces their difficulty by 2 if the
+target can still move around a bit, or can hit them automatically if the target
+is fully immobilized
+Stunning:
+If -- after the soak roll -- a character suffers health-level damage that
+exceeds their stamina rating, they're stunned until the end of the following
+turn. The stunned character can't make any significant actions. Attack rolls
+against them during that time reduce their difficulty by 2.
