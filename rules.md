@@ -782,8 +782,37 @@ With or without cover, a character can move up to one half their maximum running
 distance and still act without taking a penalty or dividing up their dice pool.
 
 **Range:** Each ranged weapon has a *Range* property that shows its medium
-efective range. Within that distance, the difficulty of an attack is considered
+effective range. Within that distance, the difficulty of an attack is considered
 to be a 6. A given weapon can be fired up to twice its listed *Range* at a
 difficulty of 8 (or higher as determined by the Storyteller). Within point-blank
 range (two yards or less) a weapon's difficulty drops to 4.
+
+**Reloading:** A gun with a clip takes a single action to perform. The gun can
+still be fired in the same turn but the player loses two dice from their usual
+attack dice pool. 
+
+Revolvers (without a speed-loader) require a full turn to reload manually. No
+other actions are possible during the turn.
+
+Characters with a Firearms rating of 1 or better can reload as an automatic
+action (without a roll) under normal circumstances, though certain complications
+(badly hurt, reloading in a moving car, and so on) might demand a Dexterity +
+Firearms roll. Reloading a spent clip or a speed-loader with fresh bullets
+requires a Dexterity + Firearms roll (difficulty 6) and an entire turn.
+
+**Three-Round Burst:** An automatic weapon with a three-round burst setting
+functions similarly to a weapon being fired full-auto. Add 3 dice to your attack
+roll at the cost of increasing the difficulty by 1. The listed damage is based
+upon a single bullet from the gun in question. See the Ranged Weapons chart to
+see which weapons can fire three-round bursts.
+
+**Thrown Weapons:** Hitting a target with a thrown weapon requires a Dexterity +
+Athletics roll, difficulty 6. Reduce the difficulty by 1 for a close
+target. Distant targets, or clumsy objects being thrown (tables, street signs,
+weapons that haven't been designed to be thrown) may raise that difficulty bu +1
+or +2. See the Thrown Weapons chart for specific details.
+
+**Two Weapons:** A shooter using two guns at once needs to divide their
+Dexterity + Firearms dice pool between both weapons and also add a +1 difficulty
+penalty to the gun in their off hand. 
 
