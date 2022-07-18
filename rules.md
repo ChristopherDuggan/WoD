@@ -24,8 +24,8 @@ against total successes
 
 |DICE ROLLED     |CHANCE OF SUCCESS
 -----------------|-----------------------------------
-|X               |Abysmal/No Chance
-|1               |Poor/Miniscule Chance
+|X               |Abyssmal/No Chance
+|1               |Poor/Miniscle Chance
 |2               |Average/Middling Chance
 |3               |Good/Decent Chance
 |4               |Exceptional/Good Chance
@@ -42,7 +42,7 @@ against total successes
 |8               |Difficult (playing all of '2112' on your guitar)
 |9               |Extreme (sealing a million dollar deal with reluctant folks)
 
-| TOTAL SUCCESS DIE | DEGREE OF SUCCESS
+| TOTAL SUCCESS DIE | DEGREE OF SUCESS
 -----------------|-----
 |0               | Failure
 |1               |Marginal (getting a stranger to flirt with you)
@@ -211,27 +211,27 @@ before this is factored in.
 # Action Turns
 ##### INITIATIVE
 Each character rolls initiative (one d10 + dex + wit). Characters then
-act highest to lowest. In the case of a tie, the character with the
+act highest to lowest. In the case of a tie, the character wtih the
 highest 'initiative rating' (dex + wit). If that's tied, favor the
 character with the highest wit. If that's tied, favor the character with
 the highest dex. (Optionally rolled once at the start of a sequence or
 once per turn)
 
->DW: ties vs baddies go to players except in the case of bosses. Bosses
+>DW: ties vs baddies go to players except in the case of bosses. bosses
 win ties.
 
 #### ACTION
 Characters choose what they're going to do
 
 #### RESOLUTION
-The chosen actions resolve. Roll the dice.
+The chosen actions resolve. roll the dice.
 
 >oWoD: Characters declare their actions lowest initiative to highest initiative, then
 actions resolve highest to lowest
 
 ## MOVEMENT
 
-### MOVEMENT RATES
+#### MOVEMENT RATES
 |       Movement   |    Distance Per Turn
 ---|---
 |       Walk   |    7 yards
@@ -246,12 +246,12 @@ in a single turn and still act without taking a penalty. Beyond that, they
 have to reduce their die pool for that second action by one for every yard
 moved.
 
-- **Stamina** A character can move at full speed for roughly 10 turns for every
+- **Stammina** A character can move at full speed for roughly 10 turns for every
 point of stamina they possess.
 
 - **Stamina and Adverse Conditions** High intensity movement (jumping, swimming,
 sprinting) can cut the normal amount of time they can sustain a movement by
-half. It can be further cut due to extreme circumstances (swimming through
+half. It can be further cut due to extreme circumstances (swiming through
 heavy waves, dodging gunfire, outrunning a bear). To push beyond limits, the
 character may roll Stamina or Willpower (whichever is greater). A botch on
 this roll and the character trips, their body gives out, or some other
@@ -269,7 +269,7 @@ move at half their normal rate.
 
 ## DRAMATIC FEATS
 > v = varied
-### Physical Feats
+#### Physical Feats
 | ACTION       |TRAITS             | DIFF   | DESCRIPTION|
 |--------------|-------------------|--------|------------|
 | Chase        |dex + athletics    |6      |resisted + extended
@@ -284,7 +284,7 @@ move at half their normal rate.
 | Sneaking     |dex + stealth      |<sup>*3</sup>     |standard; see spotting sneak
 | Swimming     |sta + athletics or swimming   |v      |extended; 1 success = 10 minutes for speed see movement rates
 
-### Art and Science
+#### Art and Science
 | ACTION       |TRAITS             | DIFF   | DESCRIPTION|
 |--------------|-------------------|--------|------------|
 |Computer      |int + computers    |v      |standard or extended
@@ -296,24 +296,24 @@ move at half their normal rate.
 |Invention     |int + craft or technology |v      |extended
 |Jury-Rigging  |wit + tech         |v      |standard
 |Performance   |man + art<sup>*7</sup>        |v      |standard
-|Programming   |int + computer     |<sup>*6</sup>     |extended
+|Programming   |int + comptuer     |<sup>*6</sup>     |extended
 |Repair        |int + tech         |v      |extended
 |Research      |int + research<sup>*8</sup>   |<sup>*9</sup>     |extended
 |Surfing  (web)|per + computer     |<sup>*9</sup>     |extended
 |Understanding |int + enigmas or esoterica|v      |standard
 
-### Social Occasions And Intrigue
+#### Social Occasions And Intrigue
 | ACTION       |TRAITS             | DIFF   | DESCRIPTION|
 |--------------|-------------------|--------|------------|
 |Cryptography  |int + knowledge<sup>*10</sup> |8      |extended
 |Deception<sup>*11</sup>  |man + subterfuge   |<sup>*12</sup>    |resisted
 |Eloquence<sup>*11</sup>  |cha + expression   |7      |standard
-|Facedown<sup>*11</sup>  |cha + intimidation |8      |resisted, target's willpower
+|Facedowwn<sup>*11</sup>  |cha + intimidation |8      |resisted, target's willpower
 |Fake-Out      |man + streetwise   |<sup>*12</sup>    |standard
 |Gossip<sup>*11</sup>     |man + subterfuge   |7      |standard
 |Impressing<sup>*11</sup> |cha + etiquette    |v      |standard
 |Interpreting  |per + empathy      |v      |standard
-|Interrogate<sup>*11</sup> |man + intimidation |6      |resisted, target's willpower
+|Interogate<sup>*11</sup> |man + intimidation |6      |resisted, target's willpower
 |Poisoning     |dex + streetwise   |<sup>*12</sup>    |standard
 |Seduction<sup>*11</sup>  |man + subterfuge or seduction|<sup>*12</sup>    |resisted, target's willpower
 |Spotting Sneak|per + stealth      |8      |resisted; see Sneaking
@@ -321,7 +321,7 @@ move at half their normal rate.
 |Torture<sup>*11</sup>    |man + torture      |6      |resisted; see Resisting
 
 
-### Transportation
+#### Transportation
 | ACTION       |TRAITS             | DIFF   | DESCRIPTION|
 |--------------|-------------------|--------|------------|
 |Driving       |dex + drive        |<sup>*14</sup>    |standard
@@ -333,8 +333,8 @@ move at half their normal rate.
 |              |pilot
 |Pursuit       |dex + transport    |<sup>*14</sup>    |resisted<sup>*16</sup>; see Evasion
 |              |method
-|Riding        |dex + riding       |<sup>*14</sup>    |standard
-|Sailing       |wit + crafts       |<sup>*14</sup>    |standard
+|Riding        |dex + riding       |<sup>*14</sup>    |standard                
+|Sailing       |wit + crafts       |<sup>*14</sup>    |standard                
 |              |(seamanship)
 
 #### Notes
@@ -346,7 +346,7 @@ move at half their normal rate.
 1.  Or a knowledge trait related to the game. Could also be man + intimidation
    (to bluff); per + intuition (to read opponent); or int + enigmas (to work
    out puzzle).
-1.  Depends upon system being hacked; for details see extended computer rules in 
+1.  Depends upon system being hacked; for details se extended computer rules in 
    The Book of Secrets
 1.  Man could be replaced by dex, sta, cha, or app, depending on the type of
    performance. Expression, intimidation, or seduction could be used to
@@ -374,7 +374,7 @@ move at half their normal rate.
    victim one point of temporary willpower.
    Each scene of physical torture cost the victim one health level of bashing
    or lethal damage depending on method; intense torment inflicts two health
-   levels per scene). Intense or lethal torture reduces tormentor's difficulty
+   levels per scene). Intense or lethal torture reduces tormenter's difficulty
    by -2. Botched roll gets false information, breaks target's mind, or
    possibly kills target.
 1. Difficulties depend upon travel conditions, from 3 or 4 in calm conditions
@@ -385,17 +385,17 @@ move at half their normal rate.
 1. Pursuer tries to equal or exceed target's successes; target tries to evade
    pursuer. Target begins with a head start between one and four successes. (One
    success = 2 yards on foot, 10 yards in cars, 50 yards in large
-   vehicles). Each success by pursuer eliminates one success from the target. If
+   vehicles). Each success by pursuer eliminates one sucess from the target. If
    pursuer matches or exceeds target's successes, pursuer catches up; if target
    more than doubles pursuer's successes, target escapes.
 
 ## Feats of Strength
 
 A character can automatically accomplish any feat of strength less than or equal
-to their strength pool (ie. someone with 3 dots in strength can automatically
+to their strength pool (ie someone with 3 dots in strength can automatically
 bust down a wooden door). For any feat beyond that, they may roll willpower
 (diff 9) to boost their effective strength. Each success on the willpower roll
-acts as a +1 to the pool (ie. someone with 3 dots in strength and 2 successes on
+acts as a +1 to the pool (ie someone with 3 dots in strength and 2 successes on
 the willpower roll can smash open a metal fire door).
 
 |Dice Pool   |Feat                               |Lift
@@ -413,7 +413,7 @@ the willpower roll can smash open a metal fire door).
 |11          |Punch through 1" of sheet metal    | 2000 lbs
 |12          |Snap a streetlight post            | 3000 lbs
 |13          |Throw a sedan                      | 4000 lbs
-|14          |Toss an SUV                        | 5000 lbs
+|14          |Toss an suv                        | 5000 lbs
 |15          |Hurl a pickup truck                | 6000 lbs
 
 
@@ -443,7 +443,7 @@ get penalties to their dice pools and movement as outlined below.
 
 > *These dice pool penalties do not effect soak rolls
 
-## Types of Injury
+### Types of Injury
 **Bashing Damage** - blunt impact, short falls, psychic attacks, fistfight injuries,
 knockout gas, minor illness, most types of drugs and other pains the average
 person might walk away from. It is possible but not likely to die from bashing.
@@ -452,12 +452,12 @@ Bashing can be soaked with sta. When bashing takes a character to Incapacitated,
 all subsequent bashing damage is lethal, starting from the top of the health
 chart.
 
-**Lethal Damage** - harm dealt by guns, blades, long falls, sharp impacts, electrical
+**Lethal Damage** - harm dealt by guns, blades, long falls, sharp impacts, eletrical
 burns, puncture wounds, deadly poisons, fatal diseases, and other mortal
 injuries. The average character cannot soak lethal damage.
 
 Unlike bashing damage, lethal may cause a character's health to deteriorate
-without medical care (int + medicine) to stabilize. 
+without mediacl care (int + medicine) to stabilize. 
 
 At all levels below Hurt(2), untreated lethal wounds grow one level worse each
 day. 
@@ -474,15 +474,15 @@ stabilized to prevent further damage over time.
 **Psychic Trauma** - mental attacks, torture, abominable tomes, emotional shocks and
 other things that may cause psychosomatic pain. This is bashing damage but is
 soaked by willpower rather than stamina. A character incapacitated by psychic
-trauma may become mentally ill or gain a flaw that reflects their wounded mind.
+trauma may become mentially ill or gain a flaw that reflects their wonded mind.
 
-# Healing Damage
+## Healing Damage
 Different kinds of damage take different amounts of time to heal. The times
-listed below are cumulative, meaning if you have taken 3 health levels of
+listed below are cummulative, meaning if you have taken 3 health levels of
 bashing damage, it would take you 1 hour to heal each level for a total of 3
 hours before being fully healed.
 
-## Bashing
+### Bashing
 |Health Level               | Recovery Time
 |-|-
 |Bruised to Hurt (1-3)      | 1 hour
@@ -491,7 +491,7 @@ hours before being fully healed.
 |Crippled (6)               | 6 hours*
 |Incapacitated (7)          | 12 hours*
 
-## Lethal and Aggravated
+### Lethal and Aggravated
 |Health Level               | Recovery Time
 |-|-
 |Bruised (1)                |1 day
@@ -516,7 +516,7 @@ more-or-less permanent impairment until healed by magic or extensive medical
 care.
 
 
-# COMBAT
+## COMBAT
 
 Combat takes place within the framework of the action turn. After Initiative is
 determined, offensive, defensive, and other  actions are declared. Once actions are
@@ -530,13 +530,13 @@ Defensive rolls are "saved" and are only rolled when the person is targeted with
 #### Declaration Phase
 1. Initiative is determined 
 1. Actions are declared
-#### Resolution Phase
+#### Resuolution Phase
 1. Non-defense rolls are performed in the order determined by initiative
 1. Defense rolls are done as necessary
     1. Damage rolls are performed (and potentially soaked) when an attack succeeds
     1. Health levels are modified based on damage
 
-## Attacks
+### Attacks
 All difficulties default to 6 but can vary based on circumstance
 |Attack Type            | Die Pool
 |-|-
@@ -546,7 +546,7 @@ All difficulties default to 6 but can vary based on circumstance
 |hand-to-hand           |dex + brawl or dex + martial arts
 |magic                  |arete/enlightenment. If it requires a physical component (a punch, etc) roll the appropriate attack 
 
-## Defense
+### Defense
 |Defense Type           |Die Pool
 |-|-
 |dodge                  |dex + athletics or dex + acrobatics
@@ -575,18 +575,18 @@ ranges between 6 (for a fist) and 8 (for a table). Each success scored by
 the defender removes a success from the attacker's attempt.
 
 Normally, only hand-to-hand attacks can be blocked. A character with martial
-arts can attempt to block spears, other thrown objects, or arrows with a dex +
+arts can attempt to block spears, other thrown ojects, or arrows with a dex +
 martial arts roll (diff 8). Normal humans cannot block lethal or aggravated
 damage attacks unless they are wearing armor,
 
 **Parrying (and Rebound Attacks):**
-A parry works the same as a block except you are using a weapon to block and
+A parry works the same as a block except you are using a wepaon to block and
 incoming attack.
 
 If an attacker uses a brawl attack that gets defended by a parry (like a punch
 deflected with a knife) then the attacker probably hurts themself. The defender
 rolls a "rebound attack" if the successes rolled to parry the attack outnumber
-the successes the opponent rolled when attacking them.
+the successse the opponent rolled when attacking them.
 
 A rebound attack uses a typical dex + melee roll using the full dice pool. If
 successful, it scores the usual amount of damage + one success for each success
@@ -600,7 +600,7 @@ unable to do anything else in the turn. Roll the appropriate defensive roll
 (dodge, block, etc) with your full dice pool against the first attack. Then
 subtract one die from the pool for each subsequent attack that turn.
 
-##  Damage
+###  Damage
 
 **Soaking:**
 Roll the character's stamina against a difficulty determined by the type of
@@ -615,204 +615,83 @@ soak eliminates all of the successes scored against a character, they've gotten
 hit but not hurt.
 
 **Calculating Damage:**
-The most dangerous type goes on the top of the chart. Take Bob. Bob gets punched
+The most severe type goes on the top of the chart. Take Bob. Bob gets punched
 in the face and takes 2 bashing damage after his soak.
 
-|Health Level       | |
-|-|-
-|0: Uninjured      |[ / ]
-|1: Bruised        |[ / ]
-|2: Hurt           |[ &nbsp; ]
-|3: Injured        |[ &nbsp; ]
-|4: Wounded        |[ &nbsp; ]
-|5: Mauled         |[ &nbsp; ]
-|6: Crippled       |[ &nbsp; ]
-|7: Incapacitated  |[ &nbsp; ]
+::
+(0) Uninjured       [/]
+(1) Bruised         [/]
+[2) Hurt            [ ]
+(3) Injured         [ ]
+(4) Wounded         [ ]
+(5) Mauled          [ ]
+(6) Crippled        [ ]
+(7) Incapacitated   [ ]
 
-Bob then gets stabbed with a pencil and takes a total of 1 lethal damage
+Bob then gets stabbed with a pencil nad takes a total af 1 lethal damage
 
-|Health Level       | |
-|-|-
-|0: Uninjured      |[ X ]
-|1: Bruised        |[ / ]
-|2: Hurt           |[ / ]
-|3: Injured        |[ &nbsp; ]
-|4: Wounded        |[ &nbsp; ]
-|5: Mauled         |[ &nbsp; ]
-|6: Crippled       |[ &nbsp; ]
-|7: Incapacitated  |[ &nbsp; ]
+(0) Uninjured       [X]
+(1) Bruised         [/]
+[2) Hurt            [/]
+(3) Injured         [ ]
+(4) Wounded         [ ]
+(5) Mauled          [ ]
+(6) Crippled        [ ]
+(7) Incapacitated   [ ]
 
 Then Bob gets lit on fire and takes 3 aggravated damage. Poor Bob.
-|Health Level       | |
-|-|-
-|0: Uninjured      |[ * ]
-|1: Bruised        |[ * ]
-|2: Hurt           |[ * ]
-|3: Injured        |[ X ]
-|4: Wounded        |[ / ]
-|5: Mauled         |[ / ]
-|6: Crippled       |[ &nbsp; ]
-|7: Incapacitated  |[ &nbsp; ]
 
-## Combat Tactics and Circumstances
+(0) Uninjured       [*]
+(1) Bruised         [*]
+[2) Hurt            [*]
+(3) Injured         [X]
+(4) Wounded         [/]
+(5) Mauled          [/]
+(6) Crippled        [ ]
+(7) Incapacitated   [ ]
 
-**Ambush:**
+
+                        Combat Tactics and Circumstances
+
+Ambush:
 Attacker rolls dex + stealth vs target's per + alertness
-
 If the attacker wins, they get one attack roll against the opponent before
-initiate rolls are made. Add one die to the pool for each success beyond the
+initiave rolls are made. Add one die to the pool for each success beyond the
 minimum. 
 
-On a tie, attacker may act normally for a round while the defender can only make a defensive maneuver
+On a tie, attacker goes first but the defender can take a defensive maneuver
 
-If the defender wins, roll normal initiative.
+If the defentder wins, roll normal initiative.
 
-**Armor and Shields:**
+Armor and Shields:
 Armor adds to the wearer's soak pool and allows them to soak lethal damage, as
-well as certain types of aggravated damage. Light armor is not encumbering but
+well as certain types of aggravated damage. Lgiht armor is not encumbering but
 heavier armor may inflict a penalty on the wearer's dex-based dice
 pool. Different types of armor take differing amounts of time to put on.
 
 Shields make the wearer harder to hit. An opponent facing your shield in
 hand-to-hand or melee combat adds 1 or 2 to the difficulty to hit you, depending
 on the size of the shield in question. When used to defend against projectiles,
-the shield acts as armor, reducing  the number of successes from an attack by
-one for every level in the shield's rating.
+the shield acts as armor, reducing a blow by one success for every level in the
+shield's rating.
 
 If a shield is being used to actively defend, it requires a dex + melee roll as
 a dedicated blocking/parrying action.
 
-**Blinded, Knocked Down, Immobilized, or Stunned:**
-**Blinding:** blinded characters cannot dodge, parry, or block incoming
+Blinded, Knocked Down, Immobilized, or Stunned:
+Blinding: blinded characters cannot dodge, parry, or block incoming
 attacks. They also add 2 difficulty of all visually dependent actions until they
 are able to see again
-
-**Knockdown:** The character must take an action to get back up. If they can't
-do so, they can be considered temporarily immobilized until they get back on
-their feet.
-
-**Immobilization:**
+Knockdown: The character must take an action to get back up. If they can't do
+so, they can be considered temporarily immobilized until they get back on their
+feet.
+Immobilization:
 When a character gets held down, paralyzed, or otherwise rendered unable to
-move, any other character who attacks him reduces their difficulty by 2 if the
+move, any other character who attacks him redcuces their difficulty by 2 if the
 target can still move around a bit, or can hit them automatically if the target
 is fully immobilized
-
-**Stunning:**
-If **after the soak roll** a character suffers health-level damage that
+Stunning:
+If -- after the soak roll -- a character suffers health-level damage that
 exceeds their stamina rating, they're stunned until the end of the following
 turn. The stunned character can't make any significant actions. Attack rolls
 against them during that time reduce their difficulty by 2.
-
-**Multiple Opponents:** A character fighting multiple opponents at close range
-suffers a penalty of +1 difficulty *per attacker* to both their attack and
-defense rolls, up to a maximum of +4. Fighting two opponents would add a +2
-difficulty while fighting 7 would add +4.
-
-**Rough Weather or Terrain:** In extreme circumstances an increase of +1 to +3
-to the difficulty of various rolls may be added. The specifics depend on the
-situation. See Environmental Hazards for details.
-
-**Targeting a Location:** Aiming an attack at a specific location -- the eyes,
-etc. -- is more difficult than a normal attack, which targets whatever is most
-available. AS a trade off, the attack may have additional and specific impact. A
-targeted strike my bypass armor, knock an object out of an opponent's hand, or
-have other effects based on the attack and target involved.
-
-|Target Size    | Difficulty    | Extra Damage Dice
-|-|-|-
-|Medium (arm, briefcase) | +1 | +1|
-|Small (head, hand, gun) | +2 | +2|
-|Precise (eye, heart, kneecap) | +3 | +3|
-
-## Ranged Attacks
-**Aiming:**
-A character may devote a turn toward aiming. They must remain still or move very
-slowly and do nothing else. For each turn spent aiming, add one die to the
-appropriate attack's die pool, to a maximum of the character's perception
-rating.
-
-A scope adds two dice onto an aimed attack, but only for an aimed attack. The
-scope applies no bonus if the character does not use at least one aiming round.
-
-A character must have at least one dot in the appropriate weapon skill
-(firearms, archery, etc) to utilize this aiming.
-
-**Automatic Gunfire and Strafing:** i
-- Full-Automatic Firing: Add 10 dice to the attack roll and raises the
-difficulty of the shot by +2, thanks to the weapon's recoil. The gun must have
-at least a half-clip of ammo to begin this sort of attack.
-- Full-Automatic Strafing: When strafing an area, the attacker sprays bullets
-over a particular area. This works the same as Full-Automatic Firing, except
-successes are distributed evenly between each target involved. If the number of
-successes rolled is less than the number of targets, the Storyteller decides
-who's been hit and who was missed.
-
-**Bows:** Different bows have different difficulty ratings, as listed on the
-Ranged Weapons chart. A character without the Archery ability suffers a +2
-difficulty penalty on their rolls.
-
-On a botched bow attack, the most likely outcomes is a snapped bowstring that
-must be replaced before the weapon can be used again (Wits + Crafts or Archery,
-at a +1 difficulty, assuming you have an extra bowstring).
-
-Nocking and drawing an arrow requires an action, but does not require a roll
-(automatic action). A character with three or more dots in Archery may nock,
-draw, and loose an arrow as a single action. A crossbow takes two turns to ready
-and shoot, regardless of Archery skill (the mechanism involved only moves so
-fast).
-
-> Special Vampire Rule! A vampire can be staked through the heart by an arrow,
-though it is quite difficult. The attacker must score at least 5 successes and
-must also inflict at least 3 health levels of damage (after soaking) to have the
-staking effect. If they have only 4 successes or inflict only 2 health levels of
-damage, it is treated as a regular attack.
-
-**Cover and Movement:** Cover adds to the difficulty of hitting a target; thoe
-more cover a character has, the harder they are to hit. Conversely, it's also
-harder to shoot from behind cover or to fire accurately while you're moving. 
-
-|Cover      | Difficulty to Hit Target | Shooter's Difficulty
-|-|-|-
-|Lying Flat         | +1 | 0
-|Moving             | +1 | +1
-|Behind Wall        | +2 | +1
-|Only Head Exposed  | +3 | +2
-
-With or without cover, a character can move up to one half their maximum running
-distance and still act without taking a penalty or dividing up their dice pool.
-
-**Range:** Each ranged weapon has a *Range* property that shows its medium
-effective range. Within that distance, the difficulty of an attack is considered
-to be a 6. A given weapon can be fired up to twice its listed *Range* at a
-difficulty of 8 (or higher as determined by the Storyteller). Within point-blank
-range (two yards or less) a weapon's difficulty drops to 4.
-
-**Reloading:** A gun with a clip takes a single action to perform. The gun can
-still be fired in the same turn but the player loses two dice from their usual
-attack dice pool. 
-
-Revolvers (without a speed-loader) require a full turn to reload manually. No
-other actions are possible during the turn.
-
-Characters with a Firearms rating of 1 or better can reload as an automatic
-action (without a roll) under normal circumstances, though certain complications
-(badly hurt, reloading in a moving car, and so on) might demand a Dexterity +
-Firearms roll. Reloading a spent clip or a speed-loader with fresh bullets
-requires a Dexterity + Firearms roll (difficulty 6) and an entire turn.
-
-**Three-Round Burst:** An automatic weapon with a three-round burst setting
-functions similarly to a weapon being fired full-auto. Add 3 dice to your attack
-roll at the cost of increasing the difficulty by 1. The listed damage is based
-upon a single bullet from the gun in question. See the Ranged Weapons chart to
-see which weapons can fire three-round bursts.
-
-**Thrown Weapons:** Hitting a target with a thrown weapon requires a Dexterity +
-Athletics roll, difficulty 6. Reduce the difficulty by 1 for a close
-target. Distant targets, or clumsy objects being thrown (tables, street signs,
-weapons that haven't been designed to be thrown) may raise that difficulty bu +1
-or +2. See the Thrown Weapons chart for specific details.
-
-**Two Weapons:** A shooter using two guns at once needs to divide their
-Dexterity + Firearms dice pool between both weapons and also add a +1 difficulty
-penalty to the gun in their off hand. 
-
